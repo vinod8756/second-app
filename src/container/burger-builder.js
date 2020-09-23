@@ -19,7 +19,9 @@ state = {
         salad : 0
     },
 
-    totalprice : 4
+    totalprice : 4,
+
+    currentprice : ""
   
 }
 
